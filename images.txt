@@ -6,3 +6,6 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 php:8.3.9-fpm-alpine
+
+php:8.3-fpm-alpine
+
