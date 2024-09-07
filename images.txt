@@ -7,10 +7,9 @@
 
 #php:8.3.9-fpm-alpine
 
-#php:8.3-fpm-alpine
+php:8.3-fpm-alpine
 
 #loads/alpine
 
 #mikenut/php7-alpine
 
-loads/alpine
