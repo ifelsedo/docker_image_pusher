@@ -11,4 +11,6 @@
 
 #mikenut/php7-alpine
 
-php:8.3-fpm-alpine
+#php:8.3-fpm-alpine
+
+fauria/vsftpd
