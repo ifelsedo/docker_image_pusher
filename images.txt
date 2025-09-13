@@ -7,7 +7,7 @@
 
 #php:8.3.9-fpm-alpine
 
-loads/alpine:3.8
+#loads/alpine:3.8
 
 #mikenut/php7-alpine
 
@@ -19,4 +19,6 @@ loads/alpine:3.8
 
 #whyour/qinglong:latest
 
-nginx
+#nginx
+
+php:8.4-fpm-alpine
