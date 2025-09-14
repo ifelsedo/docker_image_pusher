@@ -19,6 +19,6 @@
 
 #whyour/qinglong:latest
 
-#nginx
+nginx:1.29.1-alpine
 
-php:8.4-fpm-alpine
+#php:8.4-fpm-alpine
