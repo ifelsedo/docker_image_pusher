@@ -13,12 +13,12 @@
 
 #php:8.3-fpm-alpine
 
-#fauria/vsftpd
+fauria/vsftpd
 
 #mysql:5.7
 
 #whyour/qinglong:latest
 
-nginx:1.29.1-alpine
+#nginx:1.29.1-alpine
 
 #php:8.4-fpm-alpine
