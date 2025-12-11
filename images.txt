@@ -13,9 +13,9 @@
 
 #php:8.3-fpm-alpine
 
-fauria/vsftpd
+#fauria/vsftpd
 
-#mysql:5.7
+mysql:8.0.44
 
 #whyour/qinglong:latest
 
