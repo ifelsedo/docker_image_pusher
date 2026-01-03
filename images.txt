@@ -15,10 +15,12 @@
 
 #fauria/vsftpd
 
-mysql:8.0.44
+#mysql:8.0.44
 
 #whyour/qinglong:latest
 
 #nginx:1.29.1-alpine
 
 #php:8.4-fpm-alpine
+
+atmoz/sftp:alpine
